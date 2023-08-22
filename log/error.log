@@ -1,0 +1,119 @@
+[08-Jun-2023 11:51:37 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php:122
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php on line 122
+[08-Jun-2023 11:56:23 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php:124
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php on line 124
+[08-Jun-2023 11:57:26 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php:124
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php on line 124
+[08-Jun-2023 13:22:28 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php:121
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php on line 121
+[08-Jun-2023 13:26:54 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php:121
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\transferinsidecoop\fund_transfer_in_coop.php on line 121
+[18-Aug-2023 15:50:01 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\QrCode' not found in C:\Mobile\service-mhs-test\mobile_and_web-control\createqr\generate_qrcode.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\createqr\generate_qrcode.php on line 77
+[18-Aug-2023 15:53:57 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Class 'Endroid\QrCode\QrCode' not found in C:\Mobile\service-mhs-test\mobile_and_web-control\createqr\generate_qrcode.php:77
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\createqr\generate_qrcode.php on line 77
+[21-Aug-2023 08:43:36 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 21
+[21-Aug-2023 08:43:55 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 21
+[21-Aug-2023 08:43:58 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 21
+[21-Aug-2023 08:44:09 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:21
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 21
+[21-Aug-2023 08:44:45 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:45:00 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:46:19 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:48:50 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:49:07 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:49:31 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:50:02 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:55:38 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:22
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 22
+[21-Aug-2023 08:59:56 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 24
+[21-Aug-2023 09:00:08 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php:24
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\fetch_allow_account_transfer_and_loan.php on line 24
+[21-Aug-2023 11:06:17 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method CalculateDeposit\CalculateDep::insertFeePromotion() in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php:135
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php on line 135
+[21-Aug-2023 11:10:20 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method CalculateDeposit\CalculateDep::insertFeePromotion() in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php on line 136
+[21-Aug-2023 11:10:51 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method CalculateDeposit\CalculateDep::insertFeePromotion() in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php on line 136
+[21-Aug-2023 11:11:19 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method CalculateDeposit\CalculateDep::insertFeePromotion() in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php on line 136
+[21-Aug-2023 11:20:59 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method CalculateDeposit\CalculateDep::insertFeePromotion() in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php on line 136
+[21-Aug-2023 11:28:26 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to undefined method CalculateDeposit\CalculateDep::insertFeePromotion() in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php:136
+Stack trace:
+#0 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php on line 136
+[21-Aug-2023 13:35:30 Asia/Bangkok] PHP Fatal error:  Uncaught Error: Call to a member function execute() on null in C:\Mobile\service-mhs-test\include\cal_deposit.php:1422
+Stack trace:
+#0 C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\request_payment_loan_bank.php(137): CalculateDeposit\CalculateDep->insertFeePromotion(Object(PDO), '0101000464', '51210100', 'FDM', '100.00', '15.00', '2023-08-21T13:3...', Array, NULL, Object(Utility\library), '567', Array, 1, 'TXF6600000001')
+#1 {main}
+  thrown in C:\Mobile\service-mhs-test\include\cal_deposit.php on line 1422
+[22-Aug-2023 10:23:22 Asia/Bangkok] PHP Fatal error:  Uncaught SoapFault exception: [WSDL] SOAP-ERROR: Parsing WSDL: Couldn't load from 'http://172.24.7.78/COREmobile/GCOOP/WcfService125/n_loan.svc?singleWsdl' : failed to load external entity "http://172.24.7.78/COREmobile/GCOOP/WcfService125/n_loan.svc?singleWsdl"
+ in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\confirm_repay_loan.php:190
+Stack trace:
+#0 C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\confirm_repay_loan.php(190): SoapClient->SoapClient('http://172.24.7...')
+#1 {main}
+  thrown in C:\Mobile\service-mhs-test\mobile_and_web-control\repayloan\confirm_repay_loan.php on line 190

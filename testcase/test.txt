@@ -1,0 +1,3 @@
+schtasks.exe /CREATE /TN "RUN TEST SCHT" /TR "C:\File Mobile\Demo\Service-Demo-Test\testcase\test_scht_cmd.php" /SC once /SD 2020/01/25 /ST 23:50 /ru administrator /rp @Gensoft2018 /rl HIGHEST
+schtasks.exe /CREATE /TN "RUN TEST SCHT2" /TR "C:\File Mobile\Demo\Service-Demo-Test\testcase\test_scht_cmd.php" /SC once /SD 2020/01/25 /ST 23:50 /ru administrator /rp @Gensoft2018 /rl HIGHEST
+schtasks.exe /CREATE /TN "RUN TEST SCHT3" /TR "C:\File Mobile\Demo\Service-Demo-Test\testcase\test_scht_cmd.php" /SC once /SD 2020/01/25 /ST 23:50 /ru administrator /rp @Gensoft2018 /rl HIGHEST

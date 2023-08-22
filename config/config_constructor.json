@@ -1,0 +1,36 @@
+{
+	"NAME_APP" : "MHS Saving Connect",
+	"COOP_KEY" : "mhs-test",
+	"URL_POLICY" : "https://policy.thaicoop.co/index_v1.html?coop=mhs",
+	"URL_PRIVACY" : "https://policy.thaicoop.co/privacy.html?coop=mhs",
+	"COOP_ID" : "003001",
+	"URL_API_COOPDIRECT" : "https://coopdirect.thaicoop.co/coopdirect-test/control",
+	
+	"COOP_KEY_PROD" : "mhs",
+	"URL_CONSTANT" : "https://api-node.thaicoop.co/constant-Test/",
+	
+	"APP_ID" : "com.mhs.mobile",
+	"URL_SERVICE" : "https://proxy.thaicoop.co/MHSSAVING-TEST/",
+	
+	"URL_CORE_COOP" : "http://172.24.7.78/COREmobile/GCOOP/WcfService125/",
+	"URL_CORE_SMS" : "",
+	"WS_STRC_DB" : "Data Source=172.24.7.94:1521/iorcl;Persist Security Info=True;User ID=iscomhs_test;Password=iscomhs_test;Unicode=True;coop_id=003001;coop_control=003001;dbtype=1;",
+	"FIREBASE_API_KEY" : "AIzaSyAt_VDD3d6-zRZqQGI-3vK0HFv41xWX1Bs",
+	"FIREBASE_SERVER_KEY" : "AAAAB7slHKU:APA91bF2L1E9aIwpQT6l61cbEIJnbnAGfoAWy_ru2Rcxfl_qorfO_teRkYkzBMUiLfACzVO62adGFL9T_yuVkWbRcFA7xkl2xiAFh-7rTx2WXbzDkK19RUuW82V5AQ3n-OaFH3bsxSjm",
+	"SECRET_KEY_JWT" : "MHS!/-Gcoop+Connect^003001*!&",
+	"SECRET_KEY_CORE" : "MHS!/+Control-BackOffice^003001*!&",
+	"SIGNATURE_KEY_VERIFY_API" : "MHS!/-Connect+-API_LB-WITH-!KBank!-^003001*!&",
+	"VERIFY_KEY_EXTERNAL" : "API-Server+*_For-External-!Coop+ForConsent-003001-MHS-Test",
+	"DEFAULT_BANNER_COLOR_DEG" : "90",
+	"DEFAULT_BANNER_COLOR_MAIN" : "#8e9eab",
+	"DEFAULT_BANNER_COLOR_SECON" : "#eef2f3",
+	"DEFAULT_BANNER_COLOR_TEXT" : "#000000",
+	"ACCOUNT_BANK_FORMAT" : "xxx-x-xxxxx-x",
+	"LINE_NOTIFY" : "pWgMSjTu9E3rnIv4ESlDSGAGhv2zl1blctFywsYFf5u",
+	"MAIL" : "noreply@gensoft.co.th",
+	"PASS_MAIL" : "h>-^yM3cPd3&",
+	"SUBSCRIPT_ROOM_NOTIFY" : "/topics/DEV_member",
+	"HW_APPID" : "103693689",
+    "HW_APPSECRET": "e2734f46c469ee9c3cd25aa07dcfeb224704e2e5a58a170772bc23371e0d77c7",
+	"PORT_MAILSERVER" : "587"
+}
